@@ -5,23 +5,22 @@ about:
   template: trestles
   links:
     - text: LinkedIn
-      url: "https://linkedin.com/in/YOURUSERNAME"
+      url: "https://www.linkedin.com/in/dhwani-sb/"
     - text: CV
       url: "cv.pdf"
     - text: ResearchGate
-      url: "https://linkedin.com/in/YOURUSERNAME"
+      url: "https://www.researchgate.net/profile/Dhwani-Shah-3"
 ---
 
 ::: column-page
 # Bio
 
-I am a PhD candidate at .......some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text some text
+I am a PhD candidate at University of Windsor. 
 
 # Research Interests
 
 -   Connected and Autonomous Vehicles
 -   Intelligent Transportation Systems
--   Etc.
 
 # Education
 
@@ -31,15 +30,23 @@ I am a PhD candidate at .......some text some text some text some text some text
 
     <p class="grad-location">
 
-    University of Windsor, Ontario, Canada
+    [University of Windsor, Ontario, Canada](https://www.uwindsor.ca/)
 
     </p>
-
--   **B.Sc. Civil Engineering** <br>
+    
+-   **Masters in Transportation Planning** <br>
 
     <p class="grad-location">
 
-    University of Engineering and Technology, XX, Country
+    [CEPT University, Gujarat, India](https://cept.ac.in/)
+
+    </p>
+    
+-   **Civil Engineering - B.Tech. (Hons)** <br>
+
+    <p class="grad-location">
+
+    [CEPT University, Gujarat, India](https://cept.ac.in/)
 
     </p>
 
